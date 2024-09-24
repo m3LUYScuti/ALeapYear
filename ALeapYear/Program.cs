@@ -1,7 +1,3 @@
-﻿
-
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
 Console.WriteLine("Sheiyvanet weli nakianobis gasagebad:");
 
 
